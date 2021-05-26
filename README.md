@@ -21,7 +21,7 @@ Blockchain based voting system.
 Run the Ganache GUI to start the local blockchain.
 
 ### Step 4. Compile & Deploy Election Smart Contract
-`$ truffle migrate --reset`
+`λ truffle migrate --reset`
 Deploying the election contract to the local blockchain network.
 
 ### Step 5. Configure Metamask
@@ -30,5 +30,5 @@ Deploying the election contract to the local blockchain network.
 - Import an account provided by ganache to the metamask.
 
 ### Step 6. Run the Front End Application
-`$ npm start`
+`λ npm start`
 Visit this URL in your browser: http://localhost:3000
